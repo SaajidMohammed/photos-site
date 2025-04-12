@@ -1,0 +1,136 @@
+li{
+    display: inline;
+}
+.Header{
+    color: black;
+    background-color: lightgreen;
+    padding: 10px;
+    margin: 5px;
+    border: 15px;
+    border-color: black;
+    border-width: 7px;
+    border-style: ridge;   
+}
+ul,h1,li{
+    display: inline;
+}
+ul{
+    margin-left: 60%;
+}
+li{
+    color: black;
+    cursor: pointer;
+}
+li:hover{
+    color: blue;
+}
+input{
+    width: 60%;
+    padding: 15px;
+}
+.Search{
+    padding: 15px;
+}
+.Photos{
+    padding: 5%;
+    margin: 15px;
+    border: 3px;
+    border-color: black;
+    border-width: 3px;  
+    border-style: solid;
+    display: inline-block;
+    background-color: khaki;
+}
+.Photos:hover{
+    background-color: gray;
+    color: white;
+}
+p{
+    height: 10px;
+    text-align: left;
+}
+.Photo2{
+    padding: 5%;
+    margin: 15px;
+    border: 3px;
+    border-color: black;
+    border-width: 3px;  
+    border-style: solid;
+    display: inline-block;
+    background-color: khaki ;
+}
+.Photo2:hover{
+    background-color: gray;
+    color: white;
+}
+.Photo3{
+    padding: 5%;
+    margin: 15px;
+    border: 4px;
+    border-color: black;
+    border-width: 3px;  
+    border-style: solid;
+    display: inline-block;
+    background-color: khaki;
+}
+.Photo3:hover{
+    background-color: gray;
+    color: white;
+}
+.Photo4{
+    padding: 5%;
+    margin: 15px;
+    border: 4px;
+    border-color: black;
+    border-width: 3px;  
+    border-style: solid;
+    display: inline-block;
+    background-color: khaki;
+}
+.Photo4:hover{
+    background-color: gray;
+    color: white;
+}
+.Photo5{
+    padding: 5%;
+    margin: 15px;
+    border: 4px;
+    border-color: black;
+    border-width: 3px;  
+    border-style: solid;
+    display: inline-block;
+    background-color: khaki;
+}
+.Photo5:hover{
+    background-color: gray;
+    color: white;
+}
+.Photo6{
+    padding: 5%;
+    margin: 15px;
+    border: 4px;
+    border-color: black;
+    border-width: 3px;  
+    border-style: solid;
+    display: inline-block;
+    background-color: khaki;
+}
+.Photo6:hover{
+    background-color: gray;
+    color: white;
+}
+.About{
+    text-align: center;
+    margin-top: 30px;
+    padding: 20px;
+
+}
+.Contact{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    p{
+        text-align: center;
+    }
+}
